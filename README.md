@@ -6,18 +6,18 @@ Original bei NYTimes:
 Wordle Archiv:
 - https://www.devangthakkar.com/wordle_archive/?1
 
-Wordle wie Original:
+Same as Original:
 - https://xem.github.io/MiniWordle
 - https://tiredand.gay/wordle/
 
-Wordle in leicht:
+Wordle in easy:
 - https://vegeta897.github.io/wordle-peaks/
 - https://spelliegame.com/
 
-Wordle mit mehr Buchstaben:
+Wordle with more letters:
 - https://wordle10.com/
 
-Wordle in anders:
+Wordle in different (non permanent place for the websites):
 - https://apps.nookkin.com/bordle/
 - https://www.jellyneo.net/jordle/
 - https://wor-wordle-dle.com/
@@ -28,10 +28,10 @@ Wordle in anders:
 - https://wheelsrpgs.itch.io/wheeldle
 - https://metzger.media/games/word-grid/
 
-Wordle ohne Begrenzung:
+Wordle without a limit:
 - https://www.wordleunlimited.com/
 
-Wordle in anderen Sprachen:
+Wordle in different languages:
 - https://wordle.global/
 - https://wordawazzle.com.au/
 - https://www.xn--wrdle-jua.de/
@@ -46,7 +46,7 @@ Wordle in anderen Sprachen:
 - https://kach.github.io/shabdle/
 - https://wordle.latindictionary.io/
 
-Wordle mit bestimmten Begriffen:
+Wordle specific dictionary:
 - https://football-wordle.herokuapp.com/
 - https://wordwormdormdork.com/
 - https://turdle.app/
@@ -78,11 +78,11 @@ Wordle mit bestimmten Begriffen:
 - https://food-le.co/
 - https://gordle.herokuapp.com/
 
-Wordle mit eigenen Begriffen:
+Wordle with your own words:
 - https://word.rodeo/
 - https://mywordle.strivemath.com/
 
-Wordle mit Symbolen/Farben:
+Wordle with symbols/colours:
 - https://www.thehexle.io/
 - https://frankljin.github.io/hexle/
 - https://jamesl.me/hexle/
@@ -90,12 +90,12 @@ Wordle mit Symbolen/Farben:
 - https://cogit.fun/cloudle
 - https://heardle.glitch.me/
 
-Wordle in anstrengender:
+Wordle in more annoying:
 - https://keftcha.github.io/sha256le/
 - https://lazyguyy.github.io/survivle/
 - https://swag.github.io/evil-wordle/
 
-Wordle mit mehreren Begriffen:
+Wordle with multiple words:
 - https://polydle.github.io/
 - https://zaratustra.itch.io/dordle
 - https://www.quordle.com/
@@ -106,19 +106,19 @@ Wordle mit mehreren Begriffen:
 - https://duotrigordle.com/
 - https://jonesnxt.github.io/kilordle/
 
-Wordle mit anderen:
+Wordle with other competitors:
 - http://wordle.jonyork.net/
 - https://warwordly.com/
 - https://wordlewars.ctnicholas.dev/
 
-Wordle als Kreuzworträtsel:
+Wordle as crossword:
 - https://crosswordle.vercel.app/
 - https://www.cross-wordle.games/
 
-Wordle zum Bilder malen:
+Wordle for drwaing pictures:
 - https://pictle.web.app/
 
-Wordle mit Zahlen:
+Wordle with numbers:
 - https://alex.strinka.net/programs/addle/
 - http://www.equatle.com/
 - https://www.geogebra.org/m/yjv62ujk
@@ -129,10 +129,10 @@ Wordle mit Zahlen:
 - https://converged.yt/primel/
 - https://mathszone.co.uk/resources/grid/ooodle/
 
-Wordle mit Schach:
+Wordle as chess:
 - https://jackli.gg/chessle
 
-Wordle in "warum gibts diese Variante?!?":
+Wordle in "why does this version exist?!?":
 - https://invisidle.glitch.me/
 - https://gootsle.glitch.me/
 - https://optimle.meow.garden/
@@ -146,7 +146,7 @@ Wordle in "warum gibts diese Variante?!?":
 - https://rsk0315.github.io/playground/passwordle.html
 - https://renshoek.github.io/Chordle/ 
 
-Nicht wie Wordle, nur ähnlicher Name:
+Not wordle, but similar name or similar to another game in this list:
 - https://missing11.com/who-are-ya/
 - https://heardle.app/
 - https://heardle-tr.app/
