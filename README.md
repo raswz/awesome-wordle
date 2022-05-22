@@ -14,16 +14,21 @@ Wordle Archiv:
 Same as Original:
 - https://xem.github.io/MiniWordle
 - https://tiredand.gay/wordle/
+- https://bronze-age.com/worgle/
 
 Wordle in easy:
 - https://vegeta897.github.io/wordle-peaks/
 - https://spelliegame.com/
+- https://vegeta897.github.io/wordle-peaks/
+- https://warmle.org/
 
 Wordle with more letters:
 - https://wordle10.com/
+- https://www.thewordfinder.com/6-letter-wordle/
 
 Wordle in different (non permanent place for the websites):
 - https://apps.nookkin.com/bordle/
+- https://wordled.online
 - https://www.jellyneo.net/jordle/
 - https://wor-wordle-dle.com/
 - https://reversle.net/
@@ -32,9 +37,15 @@ Wordle in different (non permanent place for the websites):
 - https://wordless.farfrom.world/
 - https://wheelsrpgs.itch.io/wheeldle
 - https://metzger.media/games/word-grid/
+- https://billyinferno.github.io/wxrdle/
+- https://mwordle.subinsb.com
+- https://dwordly.fun
+- https://www.dungleon.com
+- https://wordable.weoffersolution.com
 
 Wordle without a limit:
 - https://www.wordleunlimited.com/
+- https://hellowordl.net
 
 Wordle in different languages:
 - https://wordle.global/
@@ -50,6 +61,46 @@ Wordle in different languages:
 - https://thwordle.vercel.app/
 - https://kach.github.io/shabdle/
 - https://wordle.latindictionary.io/
+- https://arwordle.netlify.app/
+- https://wordle.talaios.coop/
+- https://ololophilolo.github.io/wordle-by/
+- https://wordle-bg.ggerganov.com/
+- https://chaaklau.github.io/zidou/
+- https://gelozp.com/games/wordle/
+- http://samuello.io/jndle/
+- https://allanchain.github.io/chinese-wordle/
+- https://woordle.nl/
+- https://www.solitaire-play.com/lemot/
+- https://wordle.louan.me/
+- https://wildtype.github.io/teblak/
+- https://wordlegalego.appspot.com/
+- https://wordleheb.web.app/
+- https://jealousmarkup.xyz/szofejto/
+- https://sebastianomorando.github.io/wordle-it/
+- https://pietroppeter.github.io/wordle-it/
+- https://aseruneko.github.io/WORDLEja/
+- https://belorin.github.io/
+- https://jhlov.github.io/wordle/
+- https://nakosung.github.io/wordle/
+- https://danwordle.vercel.app/
+- https://f.github.io/wordle-kurdi/
+- https://f.github.io/wordle-ladino/
+- https://term.ooo/
+- https://wordle.belousov.one/
+- https://wordle.danielfrg.com/
+- https://swerdle.ankarhem.dev/
+- https://ordlig.se/
+- https://tamilwordle-maleycpqdq-el.a.run.app/
+- https://f.github.io/wordle-tr/
+- https://urdle.chaoticity.com/
+- https://www.jiconway.com/vertl/
+- https://saltong.carldegs.com
+- https://taximanli.github.io/kotobade-asobou
+- gabtoschi.com/letreco
+- https://wordle-svelte-clone.netlify.app
+- https://wordle-malti.github.io
+- https://yairhasfari.github.io/wordale/
+- https://wordle.cretu.dev/
 
 Wordle specific dictionary:
 - https://football-wordle.herokuapp.com/
@@ -70,6 +121,8 @@ Wordle specific dictionary:
 - https://sweardle.com/
 - https://queerdle.com/
 - https://canucklegame.github.io/canuckle/
+- https://wardle.app/
+- https://www.dangle.games/
 - https://www.taylordle.com/
 - https://bts-wordle.vercel.app/
 - https://shakespearegeek.github.io/bardle/
@@ -80,7 +133,9 @@ Wordle specific dictionary:
 - https://wordle.starwars.guide/
 - https://digitaltolkien.github.io/vue-wordle/
 - https://cfbordle.redditcfb.com/
+- https://treklegame.com/
 - https://food-le.co/
+- https://mickeyvisit.com/disney-wordle/
 - https://gordle.herokuapp.com/
 
 Wordle with your own words:
@@ -99,8 +154,12 @@ Wordle in more annoying:
 - https://keftcha.github.io/sha256le/
 - https://lazyguyy.github.io/survivle/
 - https://swag.github.io/evil-wordle/
+- https://codle.ouuan.moe
+- https://fibble.xyz
 
 Wordle with multiple words:
+- https://xordle.xyz/
+- https://wordall.xyz/
 - https://polydle.github.io/
 - https://zaratustra.itch.io/dordle
 - https://www.quordle.com/
@@ -112,6 +171,7 @@ Wordle with multiple words:
 - https://jonesnxt.github.io/kilordle/
 
 Wordle with other competitors:
+- https://www.wordleoff.com/
 - http://wordle.jonyork.net/
 - https://warwordly.com/
 - https://wordlewars.ctnicholas.dev/
@@ -119,8 +179,9 @@ Wordle with other competitors:
 Wordle as crossword:
 - https://crosswordle.vercel.app/
 - https://www.cross-wordle.games/
+- https://squareword.org/
 
-Wordle for drwaing pictures:
+Wordle for drawing pictures:
 - https://pictle.web.app/
 
 Wordle with numbers:
@@ -138,6 +199,8 @@ Wordle as chess:
 - https://jackli.gg/chessle
 
 Wordle in "why does this version exist?!?":
+- https://passwordle.com/
+- https://passwordle.sp8c3.com/
 - https://invisidle.glitch.me/
 - https://gootsle.glitch.me/
 - https://optimle.meow.garden/
@@ -154,9 +217,11 @@ Wordle in "why does this version exist?!?":
 Not wordle, but similar name or similar to another game in this list:
 - https://missing11.com/who-are-ya/
 - https://heardle.app/
+- https://sonic-heardle.glitch.me/
 - https://heardle-tr.app/
 - https://framed.wtf/
 - https://semantle.novalis.org/
+- https://semantle.pimanrul.es/
 - https://squabble.me/
 - https://wafflegame.net/
 - https://fubargames.se/squardle/
@@ -172,3 +237,4 @@ Not wordle, but similar name or similar to another game in this list:
 - https://movlie.org/
 - https://www.moviedle.app/
 - https://posterdle.com/
+- https://actorle.com/
