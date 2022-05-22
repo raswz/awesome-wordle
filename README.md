@@ -1,8 +1,9 @@
 # awesome-wordle
----
+
 This is a list I created from the many different sites out there that have something in common with the famous wordle.
 
 When you have pages I could add, write it in the "Discoussions" tab.
+
 ---
 Original bei NYTimes:
 - https://www.nytimes.com/games/wordle/index.html
