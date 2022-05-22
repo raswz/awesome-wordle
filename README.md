@@ -2,7 +2,7 @@
 
 This is a list I created from the many different sites out there that have something in common with the famous wordle.
 
-Write it in the "Discoussions" tab, when you have pages I could add.
+Write it in the "Discussions" tab, when you have pages I could add.
 
 ---
 Original bei NYTimes:
