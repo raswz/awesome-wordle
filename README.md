@@ -95,7 +95,7 @@ Wordle in anstrengender:
 - https://lazyguyy.github.io/survivle/
 - https://swag.github.io/evil-wordle/
 
-Wordle mit mehreren Begriffen
+Wordle mit mehreren Begriffen:
 - https://polydle.github.io/
 - https://zaratustra.itch.io/dordle
 - https://www.quordle.com/
@@ -106,19 +106,19 @@ Wordle mit mehreren Begriffen
 - https://duotrigordle.com/
 - https://jonesnxt.github.io/kilordle/
 
-Wordle mit anderen
+Wordle mit anderen:
 - http://wordle.jonyork.net/
 - https://warwordly.com/
 - https://wordlewars.ctnicholas.dev/
 
-Wordle als Kreuzworträtsel
+Wordle als Kreuzworträtsel:
 - https://crosswordle.vercel.app/
 - https://www.cross-wordle.games/
 
-Wordle zum Bilder malen
+Wordle zum Bilder malen:
 - https://pictle.web.app/
 
-Wordle mit Zahlen
+Wordle mit Zahlen:
 - https://alex.strinka.net/programs/addle/
 - http://www.equatle.com/
 - https://www.geogebra.org/m/yjv62ujk
@@ -129,10 +129,10 @@ Wordle mit Zahlen
 - https://converged.yt/primel/
 - https://mathszone.co.uk/resources/grid/ooodle/
 
-Wordle mit Schach
+Wordle mit Schach:
 - https://jackli.gg/chessle
 
-Wordle in "warum gibts diese Variante?!?"
+Wordle in "warum gibts diese Variante?!?":
 - https://invisidle.glitch.me/
 - https://gootsle.glitch.me/
 - https://optimle.meow.garden/
