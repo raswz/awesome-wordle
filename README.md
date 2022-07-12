@@ -195,6 +195,15 @@ Wordle with numbers:
 - https://converged.yt/primel/
 - https://mathszone.co.uk/resources/grid/ooodle/
 
+Wordle with music:
+- https://themedle.com/
+- https://heardledecades.com/
+- https://heardle80s.com/
+- https://2000sheardle.glitch.me/
+- https://heardle.app/
+- https://sonic-heardle.glitch.me/
+- https://heardle-tr.app/
+
 Wordle as chess:
 - https://jackli.gg/chessle
 
@@ -216,9 +225,6 @@ Wordle in "why does this version exist?!?":
 
 Not wordle, but similar name or similar to another game in this list:
 - https://missing11.com/who-are-ya/
-- https://heardle.app/
-- https://sonic-heardle.glitch.me/
-- https://heardle-tr.app/
 - https://framed.wtf/
 - https://semantle.novalis.org/
 - https://semantle.pimanrul.es/
